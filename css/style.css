@@ -1,0 +1,313 @@
+.container-padding{
+	padding-left: 47px;
+	padding-right: 22px;
+}
+
+.banner{
+	margin-bottom: 98px;
+}
+
+.list{
+	padding-left: 98px;
+	padding-right: 138px;
+}
+
+.photodiary{
+	size: 3;
+	color: grey;
+	font-family: Ubuntu Light;
+	opacity: 0.5;
+}
+
+.theperfectweekeendgateway{
+	color: grey;
+	font-family: Playfair Display Bold;
+}
+
+.loremipsum{
+	size: 2;
+	color: grey;
+	font-family: Playfair Display;
+	margin-bottom: 70px;
+}
+
+.leaveacomment{
+	size: 3;
+	color: grey;
+	font-family: Playfair Display;
+	opacity: 0.7;
+	margin-bottom: 50px;
+}
+
+
+.headerfont{
+	font-family: Playfair Display;
+	display: block;
+	border: 1px solid transparent;
+	color: #6c757d;
+  	background-color: transparent;
+  	border-color: transparent;
+	padding: 25px 110px 0px 0px;
+	margin: auto;
+}
+
+.artikel{
+	margin: 50px 90px 50px 90px;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+
+}
+
+.col1{
+	padding: 45px 50px 45px 50px;
+	margin: 0px 60px 25px 0px;
+
+}
+
+.col2{
+	padding: 45px 50px 45px 50px;
+	margin: 0px 0px 25px 60px;
+}
+
+.col3{
+	padding: 45px 50px 45px 50px;
+	margin: 0px 60px 0px 0px;
+}
+
+.col4{
+	padding: 45px 50px 45px 50px;
+	margin: 0px 0px 0px 60px;
+}
+
+.artikel-category{	
+	size: 3;
+	color: grey;
+	font-family: Ubuntu Light;
+	opacity: 0.5
+}
+
+.artikel-judul{
+	color: grey;
+	font-family: Playfair Display Bold;
+	padding: 0px 10px 0px 0px;
+
+}
+
+.artikel-isi{
+	size: 2;
+	color: grey;
+	font-family: Playfair Display;
+}
+
+.newsletter{
+	padding: 118px 250px 119px 250px;
+	background-color: #dcdcdc;
+	opacity
+}
+
+.newsletter-list1{
+	font-family: Playfair Display;
+	text-decoration: underline;
+}
+
+.newsletter-list2{
+	font-family: Playfair Display;
+}
+
+.footer{
+	padding: 29px 0px 29px 0px;
+	background-color: #dcdcdc;
+	opacity
+}
+.footer-content{
+
+}
+
+.footer-list1{
+	padding-left: 128px;
+	font-family: Playfair Display Bold;
+	size: 3;
+}
+
+.footer-list2{
+	padding-left: 12px;
+	font-family: Playfair Display Bold;
+	size: 3;
+}
+
+.footer-list3{
+	padding-left: 815px;
+	font-family: Playfair Display Bold;
+	size: 3;
+}
+
+.footer-img{
+	padding-left: 7px;
+}
+
+button{
+	background-color: transparent;
+	border: 2px solid grey;
+	padding: 5px 23px 5px 23px;
+	margin-top: 0px;
+	margin-bottom: 85px; 
+}
+
+.loadmore{
+	color: grey;
+	font-family: Playfair Display;
+}
+
+/* CSS BASE2 ------------------------------------------------------*/
+
+.konten-gambar1{
+	margin: 0px 0px 77px 42px;
+}
+
+.konten-gambar2{
+	margin: 0px 0px 77px 42px;
+}
+
+.konten-gambar3{
+	margin: 0px 0px 77px 42px;
+}
+
+.konten-gambar-list{
+	padding: 20px 25px 20px 25px;
+	size: 2;
+	color: grey;
+	font-family: Playfair Display;
+	font-style: italic;
+}
+
+.tabelisi3{
+	padding: 50px 250px 50px 250px;
+	background-color: #dcdcdc;
+	margin-bottom: 80px;
+}
+
+.tabelisi3-list1{
+	font-family: Playfair Display;
+	text-decoration: underline;
+	margin: 0px 0px 30px 18px;
+}
+
+.tabelisi3-konten{
+	margin: 30px 0px 20px 0px;
+}
+
+/*CSS BASE3 ---------------------------------------------------*/
+
+#content{
+	height: 350px;
+	width: 100%;
+	float: center;
+	margin-bottom: 500px;
+}
+
+#left-content{
+	height: 100%;
+	width: 67%;
+	float: left;
+	margin-left: 60px; 
+	margin-right: 60px;
+	
+}
+
+#right-content{
+	height: 800px;
+	width: 20%;
+	float: left;
+	margin-left: 4%;
+}
+
+.list_base3{
+	padding-left: 36px;
+	padding-right: 36px;
+}
+
+.judul1{
+	size: 3;
+	color: grey;
+	font-family: Ubuntu Light;
+	opacity: 0.5;
+}
+
+.judul2{
+	color: grey;
+	font-family: Playfair Display Bold;
+}
+
+.isi{
+	size: 2;
+	color: grey;
+	font-family: Playfair Display;
+	margin-bottom: 70px;
+}
+
+.right-content-foto-user{
+	margin:10px 0px 15px 0px;
+}
+
+.aboutme{
+	font-family: Playfair Display Bold;
+	margin-bottom: 20px;
+
+}
+
+.status{
+	font-family: Playfair Display;
+	margin-bottom: 10px;
+}
+
+.icon{
+	margin-bottom: 10px;
+}
+
+.toppost{
+	font-family: Playfair Display;
+	margin-bottom: 60px;
+
+}
+
+.iklan{
+	margin:10px 0px 10px 0px;
+
+}
+
+.box-coment{
+
+}
+
+.box-form-comment{
+
+}
+
+input{
+ 	color: grey;
+}
+
+textarea{
+	color: grey;
+}
+
+.form-id{
+ 	margin-bottom: 10px;
+}
+
+.form-pw{
+	margin-bottom: 10px;
+}
+
+.form-comment{
+	color: grey;
+	margin-bottom: 10px;
+}
+
+.form-submit{
+	margin-bottom: 70px;
+	width: 54%;
+	padding: 3px 15px 0px 15px;
+}
